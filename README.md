@@ -23,6 +23,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alisher-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alisher-Dev&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alisher-Dev&theme=tokyonight" />
 </p>
 
 <!-- Alisher-Dev -->
