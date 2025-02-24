@@ -30,7 +30,7 @@
 
 ---
 
-## Codewars ⚙️:
+## ⚙️ Codewars :
 
 <div align="center">
   <img style="width: 400px" src="https://www.codewars.com/users/Alisher-Dev/badges/large" alt="Codewars Badge">
