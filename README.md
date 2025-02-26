@@ -21,8 +21,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alisher-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="160">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alisher-Dev&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alisher-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="140">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alisher-Dev&theme=tokyonight" height="140" />
 </p>
 
 <!-- Alisher-Dev -->
