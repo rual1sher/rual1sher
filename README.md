@@ -8,17 +8,17 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Обо мне
 
-- 🔥 FullStack Developer (Node.js, React, NestJS, Next.js, MySQL)
-- 🎮 Creating cool stuff with **Godot 4**
-- ⚡ Currently working on **Mbos Dashboard**
-- 💻 Passionate about anime & high-tech development
-- 🏆 Always leveling up my skills
+- 🔥 FullStack-разработчик (Node.js, React, NestJS, Next.js, MySQL)
+- 🎮 Создаю крутые штуки с Godot 4 и unity
+- ⚡ Сейчас работаю над Mbos Dashboard
+- 💻 Увлечен аниме, музыкой и развитием высоких технологий.
+- 🏆 Постоянно повышаю уровень своих навыков )
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alisher-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="140">
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚙️ Codewars :
+## ⚙️ Codewars
 
 <div align="center">
   <img style="width: 400px" src="https://www.codewars.com/users/Alisher-Dev/badges/large" alt="Codewars Badge">
@@ -37,28 +37,32 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Технический стек
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,nextjs,typescript,postgresql,mysql,tailwind,nginx,git,github" />
 </div>
 
-## ⚡ Fun Fact
+## ⚡ Интересный факт обо мне
 
-**I make code better than I cook 🍜**  
-_But I still love ramen!_
+**Сначала пушу в гит, потом грею рамен 🍜**  
+_Приоритеты — как и должно быть._
 
----
-
-## 🏆 Achievements
-
-- 🏅 Top Contributor in [<a href="https://github.com/Alisher-Dev/chat-craft">chat-craft</a>]
-- 🎖️ Built & launched multiple projects
-- 🚀 100+ commits in a single day
+**Я компилю баги во вкусный результат 🔥**  
+_Потому что даже фейлы можно красиво подать._
 
 ---
 
-👾 **Let's connect!**  
+## 🏆 Достижения
+
+- 🏅 Лучший участник в [<a href="https://github.com/Alisher-Dev/chat-craft">chat-craft</a>]
+- 🎖️ Создал и запустил несколько проектов
+- 🚀 100+ коммитов за один день
+
+---
+
+👾 **общаться со мной!**  
 💬 VK: [Alisher_dev](https://vk.com/alisher_dev)  
-🐦 Telegram: [Dev_Alish](https://t.me/https://t.me/Dev_Alish)  
-📩 Email: [kr4054658@gmail.com](https://kr4054658@gmail.com)
+🐦 Telegram: [Dev_Alish](https://t.me/Dev_Alish)  
+📸 Instagram: [al1isher_06](https://www.instagram.com/al1isher_06/)
+
