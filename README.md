@@ -63,6 +63,5 @@ _Потому что даже фейлы можно красиво подать.
 
 👾 **общаться со мной!**  
 💬 VK: [Alisher_dev](https://vk.com/alisher_dev)  
-🐦 Telegram: [Dev_Alish](https://t.me/Dev_Alish)  
-📸 Instagram: [al1isher_06](https://www.instagram.com/al1isher_06/)
+🐦 Telegram: [Dev_Alish](https://t.me/rual1sher)  
 
