@@ -18,7 +18,47 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rual1sher&theme=tokyonight" height="140" />
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rual1sher&theme=transparent"
+        height="200em"
+        alt="Stats"
+      />
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rual1sher&theme=transparent&exclude=html,CSS"
+        height="200em"
+        alt="Most Commit Languages"
+      />
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rual1sher&theme=transparent&exclude=html,CSS"
+        height="200em"
+        alt="Most Repo Languages"
+      />
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rual1sher&theme=transparent&utcOffset=5.30&include_all_commits=true&count_private=false"
+        height="200em"
+        alt="Time Graph"
+      />
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=rual1sher&include_all_commits=true&theme=transparent"
+        height="200em"
+        alt="GitHub Stats"
+        border=false
+      />
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=rual1sher&theme=transparent&hide_border=true&include_all_commits=true&count_private=false"
+        height="200em"
+        alt="Streak"
+      />
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rual1sher&theme=transparent"
+        height="200em"
+        alt="Commitments"
+      />
+      <img
+        src="https://trophygh.kolioaris.xyz/?username=rual1sher&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=3&column=3"
+        height="400em"
+        alt="Trophies"
+      />
 </p>
 
 ---
