@@ -1,26 +1,17 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║    █████╗ ██╗     ██╗███████╗██╗  ██╗███████╗██████╗                 ║
-║   ██╔══██╗██║     ██║██╔════╝██║  ██║██╔════╝██╔══██╗                ║
-║   ███████║██║     ██║███████╗███████║█████╗  ██████╔╝                ║
-║   ██╔══██║██║     ██║╚════██║██╔══██║██╔══╝  ██╔══██╗                ║
-║   ██║  ██║███████╗██║███████║██║  ██║███████╗██║  ██║                ║
-║   ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                ║
-║                                                                      ║
-║   CLASS: FULLSTACK DEVELOPER  ·  LEVEL: 4 · DEVALOPER                ║
-║   LOCATION: URGENCH, UZ 🇺🇿   ·  STATUS: ● ACTIVE                     ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+# `> АЛИШЕР РУСТАМОВ`
+### `Fullstack-разработчик & DevOps-инженер`
 
-[![Telegram](https://img.shields.io/badge/Telegram-@rual1sher-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rual1sher)
-[![Channel](https://img.shields.io/badge/Channel-rual1sher__code-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rual1sher_code)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rualisher.uz-00d4f0?style=flat-square&logo=vercel&logoColor=white)](https://rualisher.uz)
+Ургенч, Узбекистан 🇺🇿 · **Статус:** `Активен / Открыт к масштабным проектам`
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@rual1sher-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rual1sher)
+[![Channel](https://img.shields.io/badge/Канал-rual1sher__code-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rual1sher_code)
+[![Portfolio](https://img.shields.io/badge/Портфолио-rualisher.uz-00d4f0?style=flat-square&logo=safari&logoColor=white)](https://rualisher.uz)
 [![GitHub](https://img.shields.io/badge/GitHub-rual1sher-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rual1sher)
-[![Views](https://komarev.com/ghpvc/?username=rual1sher&color=00d4f0&style=flat-square&label=PROFILE+VIEWS)](https://github.com/rual1sher)
+[![Views](https://komarev.com/ghpvc/?username=rual1sher&color=00d4f0&style=flat-square&label=ПРОСМОТРЫ)](https://github.com/rual1sher)
 
 </div>
 
@@ -28,15 +19,18 @@
 
 ## `> ./whoami`
 
-```yaml
-name:        Alisher
-role:        Fullstack Developer (Backend focus)
-location:    Urgench, Uzbekistan 🇺🇿
-experience:  4+ years
-stack:       Node.js · NestJS · Angular · React · PostgreSQL · Docker
-interests:   [ "high tech", "anime", "music", "open source" ]
-quote:       "Сначала пушу в гит, потом грею рамен 🍜"
-```
+<pre>
+инженер:     Алишер Рустамов
+роль:        Fullstack-разработчик (акцент на Backend и инфраструктуру)
+опыт:        4+ года коммерческой разработки
+локация:     Ургенч, Узбекистан 🇺🇿
+направления:
+  - Архитектура высоконагруженных API
+  - ERP-системы и автоматизация бизнес-процессов
+  - Микросервисы и проектирование баз данных
+  - CI/CD и серверная инфраструктура
+принцип:     "Строгая типизация, масштабируемая архитектура и полная автоматизация."
+</pre>
 
 ---
 
@@ -44,87 +38,45 @@ quote:       "Сначала пушу в гит, потом грею рамен 
 
 <div align="center">
 
-**◈ BACKEND**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logoColor=white)
-![Telegraf](https://img.shields.io/badge/Telegraf-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-
-**◈ LANGUAGES**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-
-**◈ FRONTEND**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-
-**◈ DATABASE & CACHE**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**◈ DEVOPS & TOOLS**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VPS](https://img.shields.io/badge/VPS-FF6C37?style=flat-square&logo=linux&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,fastify,postgres,mysql,mongodb,redis,prisma,docker,nginx,githubactions,linux,react,angular,tailwind&perline=9" alt="Стек технологий" />
+</a>
 
 </div>
 
----
+<br/>
 
-## `> htop --skills`
-
-```
-Node.js / NestJS   [██████████████████░░]  90%
-TypeScript         [█████████████████░░░]  88%
-Nginx / Proxy      [█████████████████░░░]  86%
-PostgreSQL         [█████████████████░░░]  85%
-Angular / React    [████████████████░░░░]  80%
-Prisma / TypeORM   [███████████████░░░░░]  75%
-Docker / DevOps    [██████████████░░░░░░]  72%
-```
-
-```
-BACKEND XP   ████████████████████░░░░░   75%  [8,750 / 11,000 XP → LVL 5]
-```
+| Направление | Технологии и фреймворки | Архитектурные задачи |
+| :--- | :--- | :--- |
+| **Backend & Core** | `TypeScript` `Node.js` `NestJS` `Fastify` `Express` | RESTful API, микросервисы, событийно-ориентированная логика, WebSockets, JWT / RBAC авторизация |
+| **Базы данных и кэш** | `PostgreSQL` `Redis` `MySQL` `MongoDB` `Prisma` `TypeORM` | Проектирование схем, индексация, стратегии кэширования, реляционное моделирование, оптимизация запросов |
+| **DevOps и Infra** | `Docker` `Docker Compose` `Nginx` `GitHub Actions` `Linux` | Reverse proxy, SSL-сертификаты, автоматизация CI/CD, настройка и защита VPS серверов |
+| **Frontend & UI** | `React` `Angular` `Tailwind CSS` `Vite` `Ant Design` | Интерактивные дашборды, модульные дизайн-системы, PWA, стейт-менеджмент и интеграция API |
+| **Интеграции** | `Gemini API` `Telegraf` `Платежные шлюзы` | Интеграция LLM API, Telegram-боты для автоматизации, вебхуки и внешние сервисы |
 
 ---
 
 ## `> ls -la ./experience`
 
-```
-drwxr-xr-x  🍋  Lemon          2025             Fullstack + DevOps Developer
-drwxr-xr-x  💡  Intention IT   2024             Fullstack Developer
-drwxr-xr-x  📱  MBOS           2024             Backend Developer
-drwxr-xr-x  ⚡  AppX           2023             Junior Developer
-```
+<pre>
+drwxr-xr-x  🍋  Lemon          2025 – настоящее время   Fullstack + DevOps разработчик
+drwxr-xr-x  💡  Intention IT   2024                     Fullstack-разработчик
+drwxr-xr-x  📱  MBOS           2024                     Backend-разработчик (NestJS, PostgreSQL)
+drwxr-xr-x  ⚡  AppX           2023                     Junior Frontend / Web-разработчик
+</pre>
 
 ---
 
 ## `> ps aux --projects`
 
-| &nbsp; | PROJECT | STACK | INFO |
-|--------|---------|-------|------|
-| 🟠 | **NAZORATCHI-API** | NestJS · PostgreSQL · Redis | Penalty Calculation Engine |
-| 🟢 | **FAROVONLIK** | NestJS · React · Docker | Multi-API Aggregation |
-| 🔵 | **PRO-PLATFORM** | NestJS · PostgreSQL · CI/CD | Enterprise System @ Work |
-| 🔵 | **E-MEHAKAMA** | NestJs · PostgreSQL · VPS | API Aggregation |
-| ⚪ | **AVTO-LAYNER** | Angular · Tailwind · VPS | Multi-API Aggregation |
+| Статус | Проект | Стек | Описание |
+| :---: | :--- | :--- | :--- |
+| 🟢 | **Nazoratchi** | `NestJS` `PostgreSQL` `Redis` | Масштабируемая ERP-система для автоматизации процессов и контроля KPI |
+| 🟢 | **Farovonlik** | `NestJS` `React` `Docker` | Государственная платформа мониторинга процессов с агрегацией сервисов |
+| 🟢 | **Testly** | `NestJS` `React` `PostgreSQL` | Платформа онлайн-тестирования и экзаменов с валидацией результатов |
+| 🔵 | **M-Nazorat** | `NestJS` `PostgreSQL` `Docker` | ERP-система контроля сотрудников, GPS-трекинга и управления задачами |
+| 🔵 | **Slovarik** | `Fastify` `React` `Gemini AI` | PWA-сервис для изучения лексики с генерацией учебного контента на AI |
+| ⚪ | **Pro-Platform** | `NestJS` `PostgreSQL` `CI/CD` | Высоконагруженная корпоративная платформа автоматизации |
 
 ---
 
@@ -132,54 +84,36 @@ drwxr-xr-x  ⚡  AppX           2023             Junior Developer
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rual1sher&theme=transparent" height="185em" alt="Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rual1sher&theme=transparent&hide_border=true" height="185em" alt="Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rual1sher&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="155" alt="GitHub Статистика" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rual1sher&theme=tokyonight&hide_border=true&background=0D1117" height="155" alt="GitHub Серия" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rual1sher&theme=transparent&exclude=html,CSS" height="185em" alt="Most Commit Languages"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rual1sher&theme=transparent&exclude=html,CSS" height="185em" alt="Repos per Language"/>
+<br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rual1sher&theme=transparent&utcOffset=5" height="185em" alt="Productive Time"/>
-<img src="https://github-stats-extended.vercel.app/api?username=rual1sher&include_all_commits=true&theme=transparent" height="185em" alt="GitHub Stats"/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rual1sher&theme=transparent" height="185em" alt="Profile Details"/>
+<a href="https://www.codewars.com/users/rual1sher">
+  <img src="https://www.codewars.com/users/rual1sher/badges/micro" alt="Codewars Бейдж" />
+</a>
 
 </div>
 
 ---
 
-## `> codewars --rank`
+## `> achievements --summary`
 
-<div align="center">
-
-<img src="https://www.codewars.com/users/rual1sher/badges/large" alt="Codewars Badge"/>
-
-</div>
-
----
-
-## `> achievements --list`
-
-<div align="center">
-
-<img src="https://trophygh.kolioaris.xyz/?username=rual1sher&theme=transparent&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophies"/>
-
-</div>
-
-```
-[✓] 100+ коммитов за один день
-[✓] Несколько продакшн-проектов в эксплуатации
-[✓] Full-cycle: от идеи до деплоя
-[✓] Компилю баги во вкусный результат 🔥
-```
+<pre>
+[✓] 4+ года коммерческой разработки и вывода систем в production
+[✓] Полный цикл: проектирование архитектуры, бэкенд, интерфейсы и деплой на серверы
+[✓] Разработка и поддержка ERP-систем государственного и коммерческого уровня
+[✓] Оптимизация баз данных, внедрение кэширования и настройка zero-downtime CI/CD пайплайнов
+</pre>
 
 ---
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════╗
-║  © 2026 RUALISHER.UZ · BUILT BY NIGHT ☕   ║
-╚════════════════════════════════════════════╝
-```
+<pre>
+╔════════════════════════════════════════════════════╗
+║  © 2026 RUALISHER.UZ · РАЗРАБОТАНО НА РЕЗУЛЬТАТ    ║
+╚════════════════════════════════════════════════════╝
+</pre>
 
 </div>
